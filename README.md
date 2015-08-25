@@ -1,3 +1,5 @@
+Bouncing Balls
+===============
 Balls.py is a program that simulates an animation of balls bouncing around the window and off of each other (using graphics.py library).
 
 <b>NOTE:</b> Requires Python version 3.3.x to work.
